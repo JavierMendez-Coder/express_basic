@@ -129,6 +129,5 @@ Project Link: [https://github.com/javiermendez-coder/express_basic](https://gith
 [stars-url]: https://github.com/javiermendez-coder/express_basic/stargazers
 [issues-shield]: https://img.shields.io/github/issues/javiermendez-coder/express_basic.svg?style=for-the-badge
 [issues-url]: https://github.com/javiermendez-coder/express_basic/issues
-[product-screenshot]: images/screenshot.png
 [carlogilmar]: https://github.com/carlogilmar/
 [launchx]: https://github.com/LaunchX-InnovaccionVirtual
